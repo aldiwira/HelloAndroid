@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:text="Aldi Wirawan"
         android:textColor="#ffffff"
-        android:textSize="19sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.192"
         app:layout_constraintLeft_toLeftOf="parent"
